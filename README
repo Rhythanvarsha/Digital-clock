@@ -1,13 +1,2 @@
 
- 🌟 Features
-
-- 🖥️ **Responsive Design**: Adapts to any screen size, ensuring a perfect display on desktops, tablets, and smartphones.
-- ⏳ **Real-Time Update**: The clock updates every second to keep the displayed time accurate.
-- 🎨 **Modern UI**: Features a sleek and contemporary design that complements any website theme.
-- ⚡ **Lightweight**: Minimal dependencies for quick load times and easy integration.
-
-
-├── index.html      # Main HTML file
-├── style.css       # CSS file for styling
-└── script.js       # JavaScript file for clock functionality
-
+ 
