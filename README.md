@@ -28,5 +28,3 @@ Follow these steps to get the project up and running:
 ├── index.html      # Main HTML file
 ├── style.css       # CSS file for styling
 └── script.js       # JavaScript file for clock functionality
-📸 Preview
-<p align="center"> <img src=""C:\Users\kavin\OneDrive\Pictures\Screenshots\Screenshot 2024-09-02 193902.png"" alt="Digital Clock Screenshot" width="70%"> </p>
